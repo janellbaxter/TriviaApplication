@@ -1,2 +1,2 @@
 # TriviaApplication
-Example application for Object Oriented Programming course
+Example application for programmingisfun.com
