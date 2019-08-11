@@ -1,8 +1,8 @@
 ﻿namespace Trivia
 {
     /*
-     * "Trivia Application" by http://programmingisfun.com, used under CC BY.
-     * https://creativecommons.org/licenses/by/4.0/
+     * "Trivia Application" by http://programmingisfun.com
+     * Published under MIT license: https://github.com/janellbaxter/TriviaApplication/blob/master/LICENSE
      */
     class Program
     {
